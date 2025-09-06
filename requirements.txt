@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+openai
+python-dotenv
+pydantic
+faiss-cpu
+langchain-openai==0.3.3
+langchain-community==0.3.29
+pydantic-settings==2.10.1
